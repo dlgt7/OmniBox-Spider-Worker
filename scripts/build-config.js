@@ -1,17 +1,17 @@
 /**
- * 本地配置构建脚本
- * 在部署前扫描爬虫脚本并生成配置文件
+ * 配置构建脚本
+ * 在部署前生成配置文件
  */
 
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 
-// 爬虫脚本仓库路径
-const SPIDER_REPO_PATH = process.env.SPIDER_REPO_PATH || 
-  'C:\\Users\\Administrator\\Desktop\\OmniBox-Spider-main';
-
-// 输出配置文件路径
 const OUTPUT_PATH = path.join(__dirname, '..', 'public', 'config.json');
+
+// GitHub 仓库 URL
+const GITHUB_REPO = 'https://github.com/dlgt7/OmniBox-Spider';
+const GITHUB_RAW = 'https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main';
 
 // 分类列表
 const CATEGORIES = [
@@ -32,6 +32,47 @@ const CATEGORIES = [
 ];
 
 /**
+ * 从 GitHub API 获取目录内容
+ */
+async function fetchGitHubDirectory(category) {
+  return new Promise((resolve, reject) => {
+    const apiPath = `/repos/dlgt7/OmniBox-Spider/contents/${encodeURIComponent(category)}`;
+    const options = {
+      hostname: 'api.github.com',
+      path: apiPath,
+      method: 'GET',
+      headers: {
+        'User-Agent': 'OmniBox-Spider-Worker',
+        'Accept': 'application/vnd.github.v3+json',
+      }
+    };
+
+    const req = https.request(options, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        if (res.statusCode === 200) {
+          try {
+            resolve(JSON.parse(data));
+          } catch (e) {
+            resolve([]);
+          }
+        } else {
+          resolve([]);
+        }
+      });
+    });
+
+    req.on('error', () => resolve([]));
+    req.setTimeout(5000, () => {
+      req.destroy();
+      resolve([]);
+    });
+    req.end();
+  });
+}
+
+/**
  * 解析爬虫脚本元数据
  */
 function parseSpiderMetadata(content, filename) {
@@ -40,10 +81,8 @@ function parseSpiderMetadata(content, filename) {
     author: '',
     description: '',
     version: '',
-    dependencies: [],
   };
 
-  // 解析 @name
   const nameMatch = content.match(/\/\/\s*@name\s+(.+)/);
   if (nameMatch) {
     metadata.name = nameMatch[1].trim();
@@ -51,7 +90,6 @@ function parseSpiderMetadata(content, filename) {
     metadata.name = filename.replace(/\.(js|py)$/, '');
   }
 
-  // 解析其他元数据
   const authorMatch = content.match(/\/\/\s*@author\s+(.+)/);
   if (authorMatch) metadata.author = authorMatch[1].trim();
 
@@ -61,46 +99,37 @@ function parseSpiderMetadata(content, filename) {
   const versionMatch = content.match(/\/\/\s*@version\s+(.+)/);
   if (versionMatch) metadata.version = versionMatch[1].trim();
 
-  const depsMatch = content.match(/\/\/\s*@dependencies\s+(.+)/);
-  if (depsMatch) {
-    metadata.dependencies = depsMatch[1].split(',').map(d => d.trim()).filter(d => d);
-  }
-
   return metadata;
 }
 
 /**
- * 扫描指定类别的爬虫脚本
+ * 扫描 GitHub 仓库
  */
-function scanCategory(category) {
+async function scanGitHubRepo() {
+  console.log('正在从 GitHub 仓库扫描爬虫脚本...');
+  console.log(`仓库地址: ${GITHUB_REPO}`);
+  
   const spiders = [];
-  const categoryPath = path.join(SPIDER_REPO_PATH, ...category.split('/'));
 
-  if (!fs.existsSync(categoryPath)) {
-    console.log(`目录不存在: ${categoryPath}`);
-    return spiders;
-  }
+  for (const category of CATEGORIES) {
+    try {
+      const files = await fetchGitHubDirectory(category);
+      const jsFiles = files.filter(f => f.name.endsWith('.js') || f.name.endsWith('.py'));
+      
+      console.log(`扫描 ${category}: 找到 ${jsFiles.length} 个脚本`);
 
-  const files = fs.readdirSync(categoryPath);
-
-  for (const file of files) {
-    if (file.endsWith('.js') || file.endsWith('.py')) {
-      try {
-        const filePath = path.join(categoryPath, file);
-        const content = fs.readFileSync(filePath, 'utf-8');
-        const metadata = parseSpiderMetadata(content, file);
-
+      for (const file of jsFiles) {
         spiders.push({
-          ...metadata,
+          name: file.name.replace(/\.(js|py)$/, ''),
           category: category,
-          file: file,
-          path: `${category}/${file}`,
-          url: `https://github.com/dlgt7/OmniBox-Spider/raw/main/${category}/${file}`,
-          downloadUrl: `https://gh-proxy.org/https://github.com/dlgt7/OmniBox-Spider/raw/main/${category}/${file}`,
+          file: file.name,
+          path: `${category}/${file.name}`,
+          url: `${GITHUB_RAW}/${category}/${file.name}`,
+          downloadUrl: `https://gh-proxy.org/${GITHUB_RAW}/${category}/${file.name}`,
         });
-      } catch (error) {
-        console.error(`解析文件失败: ${file}`, error.message);
       }
+    } catch (error) {
+      console.log(`扫描 ${category}: 失败 - ${error.message}`);
     }
   }
 
@@ -121,12 +150,6 @@ function generateSiteConfig(spider) {
     filterable: 1,
   };
 
-  // 添加描述
-  if (spider.description) {
-    const shortDesc = spider.description.substring(0, 30);
-    site.name += ` | ${shortDesc}`;
-  }
-
   return site;
 }
 
@@ -134,29 +157,13 @@ function generateSiteConfig(spider) {
  * 生成 TVBox 配置
  */
 function buildTVBoxConfig(spiders) {
-  // 按类别分组
-  const groupedSpiders = {};
-  for (const spider of spiders) {
-    const category = spider.category || '其他';
-    if (!groupedSpiders[category]) {
-      groupedSpiders[category] = [];
-    }
-    groupedSpiders[category].push(spider);
-  }
-
-  // 构建站点列表
   const sites = [];
   
-  for (const [category, categorySpiders] of Object.entries(groupedSpiders)) {
-    console.log(`处理类别: ${category}, 数量: ${categorySpiders.length}`);
-    
-    for (const spider of categorySpiders) {
-      const site = generateSiteConfig(spider);
-      sites.push(site);
-    }
+  for (const spider of spiders) {
+    const site = generateSiteConfig(spider);
+    sites.push(site);
   }
 
-  // 构建完整配置
   const config = {
     spider: 'https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg;md5;448a9f26f33109f6aa148971c3adab46',
     wallpaper: 'https://深色壁纸.xxooo.cf/',
@@ -169,33 +176,45 @@ function buildTVBoxConfig(spiders) {
 /**
  * 主函数
  */
-function main() {
-  console.log('开始扫描爬虫脚本...');
-  console.log(`爬虫仓库路径: ${SPIDER_REPO_PATH}`);
+async function main() {
+  console.log('开始生成配置文件...\n');
 
-  // 扫描所有类别
-  const allSpiders = [];
-  for (const category of CATEGORIES) {
-    const spiders = scanCategory(category);
-    allSpiders.push(...spiders);
-    console.log(`扫描 ${category}: 找到 ${spiders.length} 个脚本`);
+  try {
+    // 扫描 GitHub 仓库
+    const spiders = await scanGitHubRepo();
+    console.log(`\n总共找到 ${spiders.length} 个爬虫脚本\n`);
+
+    // 生成配置
+    const config = buildTVBoxConfig(spiders);
+
+    // 确保输出目录存在
+    const outputDir = path.dirname(OUTPUT_PATH);
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+
+    // 写入配置文件
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(config, null, 2), 'utf-8');
+    console.log(`✓ 配置文件已生成: ${OUTPUT_PATH}`);
+    console.log(`✓ 站点总数: ${config.sites.length}`);
+  } catch (error) {
+    console.error('生成配置失败:', error.message);
+    
+    // 生成空配置作为后备
+    const emptyConfig = {
+      spider: '',
+      wallpaper: '',
+      sites: [],
+    };
+    
+    const outputDir = path.dirname(OUTPUT_PATH);
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+    
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(emptyConfig, null, 2), 'utf-8');
+    console.log('✓ 已生成空配置文件');
   }
-
-  console.log(`\n总共找到 ${allSpiders.length} 个爬虫脚本`);
-
-  // 生成配置
-  const config = buildTVBoxConfig(allSpiders);
-
-  // 确保输出目录存在
-  const outputDir = path.dirname(OUTPUT_PATH);
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir, { recursive: true });
-  }
-
-  // 写入配置文件
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(config, null, 2), 'utf-8');
-  console.log(`\n配置文件已生成: ${OUTPUT_PATH}`);
-  console.log(`站点总数: ${config.sites.length}`);
 }
 
 // 执行
