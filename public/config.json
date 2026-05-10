@@ -66,7 +66,8 @@
       "key": "Gimy剧迷",
       "name": "🚀Gimy剧迷",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/Gimy剧迷.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/Gimy剧迷.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -75,7 +76,8 @@
       "key": "HDmoli",
       "name": "🚀HDmoli",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/HDmoli.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/HDmoli.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -84,7 +86,8 @@
       "key": "LIBVIO",
       "name": "🚀LIBVIO",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/LIBVIO.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/LIBVIO.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -93,7 +96,8 @@
       "key": "NO视频",
       "name": "🚀NO视频",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/NO视频.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/NO视频.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -102,7 +106,8 @@
       "key": "PPnix",
       "name": "🚀PPnix",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/PPnix.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/PPnix.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -111,7 +116,8 @@
       "key": "RRSP",
       "name": "🚀RRSP",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/RRSP.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/RRSP.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -120,7 +126,8 @@
       "key": "StreamingCommunity",
       "name": "🚀StreamingCommunity",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/StreamingCommunity.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/StreamingCommunity.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -129,7 +136,8 @@
       "key": "TVB云播",
       "name": "🚀TVB云播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/TVB云播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/TVB云播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -138,7 +146,8 @@
       "key": "iKanBot",
       "name": "🚀iKanBot",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/iKanBot.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/iKanBot.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -147,7 +156,8 @@
       "key": "七味",
       "name": "🚀七味",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/七味.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/七味.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -156,7 +166,8 @@
       "key": "两个BT",
       "name": "🚀两个BT",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/两个BT.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/两个BT.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -165,7 +176,8 @@
       "key": "乌云影视",
       "name": "🚀乌云影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/乌云影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/乌云影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -174,7 +186,8 @@
       "key": "乐兔",
       "name": "🚀乐兔",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/乐兔.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/乐兔.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -183,7 +196,8 @@
       "key": "人人影视PRO",
       "name": "🚀人人影视PRO",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/人人影视PRO.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/人人影视PRO.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -201,7 +215,8 @@
       "key": "修罗影视",
       "name": "🚀修罗影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/修罗影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/修罗影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -210,7 +225,8 @@
       "key": "凡客TV",
       "name": "🚀凡客TV",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/凡客TV.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/凡客TV.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -219,7 +235,8 @@
       "key": "剧圈圈",
       "name": "🚀剧圈圈",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/剧圈圈.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/剧圈圈.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -237,7 +254,8 @@
       "key": "卧龙",
       "name": "🚀卧龙",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/卧龙.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/卧龙.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -246,7 +264,8 @@
       "key": "哇哇影视",
       "name": "🚀哇哇影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/哇哇影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/哇哇影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -255,7 +274,8 @@
       "key": "唐人街影院",
       "name": "🚀唐人街影院",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/唐人街影院.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/唐人街影院.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -264,7 +284,8 @@
       "key": "四万影视",
       "name": "🚀四万影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/四万影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/四万影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -273,7 +294,8 @@
       "key": "在线之家",
       "name": "🚀在线之家",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/在线之家.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/在线之家.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -282,7 +304,8 @@
       "key": "如意资源",
       "name": "🚀如意资源",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/如意资源.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/如意资源.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -291,7 +314,8 @@
       "key": "威尔伯TV",
       "name": "🚀威尔伯TV",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/威尔伯TV.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/威尔伯TV.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -300,7 +324,8 @@
       "key": "小黑米",
       "name": "🚀小黑米",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/小黑米.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/小黑米.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -309,7 +334,8 @@
       "key": "布布影视",
       "name": "🚀布布影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/布布影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/布布影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -318,7 +344,8 @@
       "key": "布布影视2",
       "name": "🚀布布影视2",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/布布影视2.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/布布影视2.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -327,7 +354,8 @@
       "key": "影猫仓库",
       "name": "🚀影猫仓库",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/影猫仓库.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/影猫仓库.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -336,7 +364,8 @@
       "key": "影视大全",
       "name": "🚀影视大全",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/影视大全.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/影视大全.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -345,7 +374,8 @@
       "key": "新韩剧网",
       "name": "🚀新韩剧网",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/新韩剧网.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/新韩剧网.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -354,7 +384,8 @@
       "key": "星辰影院",
       "name": "🚀星辰影院",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/星辰影院.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/星辰影院.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -372,7 +403,8 @@
       "key": "枫叶",
       "name": "🚀枫叶",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/枫叶.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/枫叶.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -381,7 +413,8 @@
       "key": "歪比巴卜",
       "name": "🚀歪比巴卜",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/歪比巴卜.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/歪比巴卜.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -390,7 +423,8 @@
       "key": "毒舌03",
       "name": "🚀毒舌03",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/毒舌03.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/毒舌03.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -399,7 +433,8 @@
       "key": "毒舌影视",
       "name": "🚀毒舌影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/毒舌影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/毒舌影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -408,7 +443,8 @@
       "key": "永乐视频",
       "name": "🚀永乐视频",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/永乐视频.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/永乐视频.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -417,7 +453,8 @@
       "key": "泰剧网",
       "name": "🚀泰剧网",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/泰剧网.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/泰剧网.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -426,7 +463,8 @@
       "key": "热播",
       "name": "🚀热播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/热播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/热播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -435,7 +473,8 @@
       "key": "爱奇艺资源站",
       "name": "🚀爱奇艺资源站",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/爱奇艺资源站.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/爱奇艺资源站.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -444,7 +483,8 @@
       "key": "片库",
       "name": "🚀片库",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/片库.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/片库.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -453,7 +493,8 @@
       "key": "独播库",
       "name": "🚀独播库",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/独播库.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/独播库.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -462,7 +503,8 @@
       "key": "瓜子",
       "name": "🚀瓜子",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/瓜子.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/瓜子.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -471,7 +513,8 @@
       "key": "电影人生",
       "name": "🚀电影人生",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/电影人生.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/电影人生.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -480,7 +523,8 @@
       "key": "电影天堂",
       "name": "🚀电影天堂",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/电影天堂.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/电影天堂.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -489,7 +533,8 @@
       "key": "耐视点播",
       "name": "🚀耐视点播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/耐视点播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/耐视点播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -498,7 +543,8 @@
       "key": "茶杯狐",
       "name": "🚀茶杯狐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/茶杯狐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/茶杯狐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -507,7 +553,8 @@
       "key": "荐片",
       "name": "🚀荐片",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/荐片.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/荐片.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -516,7 +563,8 @@
       "key": "蛋蛋鱼",
       "name": "🚀蛋蛋鱼",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/蛋蛋鱼.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/蛋蛋鱼.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -525,7 +573,8 @@
       "key": "袋鼠影视",
       "name": "🚀袋鼠影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/袋鼠影视.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/袋鼠影视.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -534,7 +583,8 @@
       "key": "这片海",
       "name": "🚀这片海",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/这片海.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/这片海.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -543,7 +593,8 @@
       "key": "金牌",
       "name": "🚀金牌",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/金牌.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/金牌.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -552,7 +603,8 @@
       "key": "韩小圈",
       "name": "🚀韩小圈",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/韩小圈.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/采集/韩小圈.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -561,7 +613,8 @@
       "key": "4K指南",
       "name": "🚀4K指南",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/4K指南.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/4K指南.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -570,7 +623,8 @@
       "key": "AListTvbox",
       "name": "🚀AListTvbox",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/AListTvbox.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/AListTvbox.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -579,7 +633,8 @@
       "key": "七味分组",
       "name": "🚀七味分组",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/七味分组.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/七味分组.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -588,7 +643,8 @@
       "key": "二小",
       "name": "🚀二小",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/二小.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/二小.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -606,7 +662,8 @@
       "key": "光鸭臻影社",
       "name": "🚀光鸭·臻影社",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/光鸭·臻影社.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/光鸭·臻影社.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -615,7 +672,8 @@
       "key": "剧迷115",
       "name": "🚀剧迷115",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/剧迷115.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/剧迷115.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -624,7 +682,8 @@
       "key": "多多",
       "name": "🚀多多",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/多多.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/多多.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -633,7 +692,8 @@
       "key": "影巢",
       "name": "🚀影巢",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/影巢.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/影巢.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -642,7 +702,8 @@
       "key": "快映",
       "name": "🚀快映",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/快映.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/快映.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -651,7 +712,8 @@
       "key": "木偶",
       "name": "🚀木偶",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/木偶.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/木偶.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -660,7 +722,8 @@
       "key": "欧哥",
       "name": "🚀欧哥",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/欧哥.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/欧哥.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -669,7 +732,8 @@
       "key": "玩偶",
       "name": "🚀玩偶",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/玩偶.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/玩偶.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -678,7 +742,8 @@
       "key": "玩偶聚合",
       "name": "🚀玩偶聚合",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/玩偶聚合.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/玩偶聚合.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -696,7 +761,8 @@
       "key": "盘搜",
       "name": "🚀盘搜",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/盘搜.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/盘搜.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -705,7 +771,8 @@
       "key": "盘搜分组",
       "name": "🚀盘搜分组",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/盘搜分组.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/盘搜分组.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -714,7 +781,8 @@
       "key": "聚盘搜索",
       "name": "🚀聚盘搜索",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/聚盘搜索.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/聚盘搜索.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -723,7 +791,8 @@
       "key": "聚盘搜索分组",
       "name": "🚀聚盘搜索分组",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/聚盘搜索分组.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/聚盘搜索分组.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -732,7 +801,8 @@
       "key": "至臻",
       "name": "🚀至臻",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/至臻.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/至臻.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -741,7 +811,8 @@
       "key": "虎斑",
       "name": "🚀虎斑",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/虎斑.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/虎斑.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -750,7 +821,8 @@
       "key": "蜡笔",
       "name": "🚀蜡笔",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/蜡笔.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/蜡笔.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -759,7 +831,8 @@
       "key": "闪电",
       "name": "🚀闪电",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/闪电.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/网盘/闪电.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -768,7 +841,8 @@
       "key": "不太灵",
       "name": "🚀不太灵",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/磁力/不太灵.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/磁力/不太灵.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -777,7 +851,8 @@
       "key": "磁力熊",
       "name": "🚀磁力熊",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/磁力/磁力熊.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/磁力/磁力熊.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -786,7 +861,8 @@
       "key": "movie360",
       "name": "🚀movie360",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/解析/movie360.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/影视/解析/movie360.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -795,7 +871,8 @@
       "key": "girigiri爱动漫",
       "name": "🚀girigiri爱动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/girigiri爱动漫.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/girigiri爱动漫.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -804,7 +881,8 @@
       "key": "嗷呜动漫",
       "name": "🚀嗷呜动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/嗷呜动漫.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/嗷呜动漫.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -813,7 +891,8 @@
       "key": "樱花动漫",
       "name": "🚀樱花动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/樱花动漫.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/樱花动漫.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -822,7 +901,8 @@
       "key": "稀饭动漫",
       "name": "🚀稀饭动漫",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/稀饭动漫.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/动漫/稀饭动漫.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -831,7 +911,8 @@
       "key": "博看听书",
       "name": "🚀博看听书",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/博看听书.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/博看听书.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -840,7 +921,8 @@
       "key": "听友FM",
       "name": "🚀听友FM",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/听友FM.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/听友FM.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -849,7 +931,8 @@
       "key": "番茄畅听",
       "name": "🚀番茄畅听",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/番茄畅听.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/番茄畅听.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -858,7 +941,8 @@
       "key": "酷我听书",
       "name": "🚀酷我听书",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/酷我听书.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/听书/酷我听书.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -876,7 +960,8 @@
       "key": "DJ音乐",
       "name": "🚀DJ音乐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/DJ音乐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/DJ音乐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -885,7 +970,8 @@
       "key": "世纪音乐",
       "name": "🚀世纪音乐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/世纪音乐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/世纪音乐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -894,7 +980,8 @@
       "key": "枫叶音乐",
       "name": "🚀枫叶音乐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/枫叶音乐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/枫叶音乐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -903,7 +990,8 @@
       "key": "芸芸音乐",
       "name": "🚀芸芸音乐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/芸芸音乐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/音乐/芸芸音乐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -912,7 +1000,8 @@
       "key": "哔哩教育",
       "name": "🚀哔哩教育",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/教育/哔哩教育.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/教育/哔哩教育.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -921,7 +1010,8 @@
       "key": "贝乐虎",
       "name": "🚀贝乐虎",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/教育/贝乐虎.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/教育/贝乐虎.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -930,7 +1020,8 @@
       "key": "YY轮播",
       "name": "🚀YY轮播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/YY轮播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/YY轮播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -939,7 +1030,8 @@
       "key": "抖音直播",
       "name": "🚀抖音直播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/抖音直播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/抖音直播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -948,7 +1040,8 @@
       "key": "斗鱼直播",
       "name": "🚀斗鱼直播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/斗鱼直播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/斗鱼直播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -957,7 +1050,8 @@
       "key": "虎牙直播",
       "name": "🚀虎牙直播",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/虎牙直播.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/直播/虎牙直播.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -966,7 +1060,8 @@
       "key": "嘟嘟短剧",
       "name": "🚀嘟嘟短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/嘟嘟短剧.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/嘟嘟短剧.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -975,7 +1070,8 @@
       "key": "星星短剧",
       "name": "🚀星星短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/星星短剧.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/星星短剧.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -984,7 +1080,8 @@
       "key": "河马短剧",
       "name": "🚀河马短剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/河马短剧.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/河马短剧.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -993,7 +1090,8 @@
       "key": "短剧粉",
       "name": "🚀短剧粉",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧粉.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧粉.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1002,7 +1100,8 @@
       "key": "短剧网",
       "name": "🚀短剧网",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧网.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧网.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1011,7 +1110,8 @@
       "key": "短剧聚合",
       "name": "🚀短剧聚合",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧聚合.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/短剧/短剧聚合.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1020,7 +1120,8 @@
       "key": "哔哩大全",
       "name": "🚀哔哩大全",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/综合/哔哩大全.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/综合/哔哩大全.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1029,7 +1130,8 @@
       "key": "MakkaPakka聚合导航",
       "name": "🚀MakkaPakka聚合导航",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/导航/MakkaPakka聚合导航.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/导航/MakkaPakka聚合导航.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1038,7 +1140,8 @@
       "key": "豆瓣推荐",
       "name": "🚀豆瓣推荐",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/导航/豆瓣推荐.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/导航/豆瓣推荐.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1047,7 +1150,8 @@
       "key": "Jellyfin",
       "name": "🚀Jellyfin",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/Jellyfin.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/Jellyfin.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1056,7 +1160,8 @@
       "key": "Plex",
       "name": "🚀Plex",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/Plex.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/Plex.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1065,7 +1170,8 @@
       "key": "飞牛",
       "name": "🚀飞牛",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/飞牛.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/流媒体/飞牛.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1074,7 +1180,8 @@
       "key": "模板一",
       "name": "🚀模板一",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/Emby/模板一.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/Emby/模板一.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1083,7 +1190,8 @@
       "key": "模板二",
       "name": "🚀模板二",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/Emby/模板二.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/dlgt7/OmniBox-Spider/main/Emby/模板二.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
