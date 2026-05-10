@@ -20,19 +20,14 @@ export async function handleRequest(request, env, ctx) {
   }
 
   try {
+    // 主页
     if (path === '/' || path === '/index.html') {
       return new Response(getHomePage(), {
         headers: { ...CORS_HEADERS, 'Content-Type': 'text/html; charset=utf-8' },
       });
     }
 
-    if (path === '/config.json' || path === '/jiekou.json') {
-      const config = await generateConfig(env);
-      return new Response(JSON.stringify(config, null, 2), {
-        headers: { ...CORS_HEADERS, 'Content-Type': 'application/json; charset=utf-8' },
-      });
-    }
-
+    // API: 爬虫列表
     if (path === '/api/spiders') {
       const spiders = await scanSpiders(env);
       return new Response(JSON.stringify(spiders, null, 2), {
@@ -40,6 +35,15 @@ export async function handleRequest(request, env, ctx) {
       });
     }
 
+    // API: 动态生成配置
+    if (path === '/api/generate') {
+      const config = await generateConfig(env);
+      return new Response(JSON.stringify(config, null, 2), {
+        headers: { ...CORS_HEADERS, 'Content-Type': 'application/json; charset=utf-8' },
+      });
+    }
+
+    // API: 刷新配置
     if (path === '/api/refresh') {
       const config = await generateConfig(env, true);
       return new Response(JSON.stringify({ success: true, message: '配置已刷新' }, null, 2), {
@@ -47,6 +51,9 @@ export async function handleRequest(request, env, ctx) {
       });
     }
 
+    // 其他路径：尝试从 Workers Sites 读取静态文件
+    // Workers Sites 会自动处理 /config.json 等静态文件
+    // 如果文件不存在，返回 404
     return new Response('Not Found', { status: 404, headers: CORS_HEADERS });
   } catch (error) {
     console.error('Error handling request:', error);
@@ -116,7 +123,7 @@ function getHomePage() {
         <p>自动聚合 OmniBox 爬虫脚本,生成 TVBox 配置文件</p>
         
         <div class="endpoint">
-            <h3>📡 配置文件</h3>
+            <h3>📡 配置文件（静态）</h3>
             <p>获取 TVBox 格式的配置文件:</p>
             <p><a href="/config.json"><code>/config.json</code></a> 或 <a href="/jiekou.json"><code>/jiekou.json</code></a></p>
         </div>
@@ -125,6 +132,12 @@ function getHomePage() {
             <h3>🔍 爬虫列表</h3>
             <p>获取所有可用的爬虫脚本列表:</p>
             <p><a href="/api/spiders"><code>/api/spiders</code></a></p>
+        </div>
+        
+        <div class="endpoint">
+            <h3>🔄 动态生成配置</h3>
+            <p>动态生成配置文件:</p>
+            <p><a href="/api/generate"><code>/api/generate</code></a></p>
         </div>
         
         <div class="endpoint">
