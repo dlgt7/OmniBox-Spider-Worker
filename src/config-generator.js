@@ -81,7 +81,7 @@ function buildTVBoxConfig(spiders, env) {
 
   // 构建完整配置
   const config = {
-    spider: `${baseUrl}/raw/main/jiekou.json`,
+    spider: `${baseUrl}/main/jiekou.json`,
     wallpaper: 'https://深色壁纸.xxooo.cf/',
     sites: sites,
   };
