@@ -36,7 +36,7 @@ async function scanCategory(env, category) {
   const spiders = [];
   
   try {
-    const baseUrl = env.SPIDER_REPO_URL || 'https://github.com/Silent1566/OmniBox-Spider';
+    const baseUrl = env.SPIDER_REPO_URL || 'https://github.com/dlgt7/OmniBox-Spider';
     const localPath = env.SPIDER_REPO_LOCAL;
     
     if (localPath) {
@@ -61,7 +61,7 @@ async function scanCategory(env, category) {
                 file: file,
                 path: `${category}/${file}`,
                 url: `${baseUrl}/raw/main/${category}/${file}`,
-                downloadUrl: `https://gh-proxy.org/${baseUrl}/raw/main/${category}/${file}`,
+              downloadUrl: `https://gh-proxy.org/https://github.com/dlgt7/OmniBox-Spider/raw/main/${category}/${file}`,
               });
             }
           }

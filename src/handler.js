@@ -135,7 +135,7 @@ function getHomePage() {
         
         <div class="endpoint">
             <h3>📦 项目地址</h3>
-            <p>爬虫脚本仓库: <a href="https://github.com/Silent1566/OmniBox-Spider" target="_blank">OmniBox-Spider</a></p>
+            <p>爬虫脚本仓库: <a href="https://github.com/dlgt7/OmniBox-Spider" target="_blank">OmniBox-Spider</a></p>
         </div>
     </div>
 </body>
