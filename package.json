@@ -1,0 +1,24 @@
+{
+  "name": "omnibox-spider-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for aggregating OmniBox Spider interfaces",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail",
+    "build-config": "node scripts/build-config.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "keywords": [
+    "cloudflare-worker",
+    "omnibox",
+    "spider",
+    "tvbox"
+  ],
+  "author": "",
+  "license": "MIT"
+}
