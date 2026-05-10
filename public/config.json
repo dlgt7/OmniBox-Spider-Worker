@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "123TV",
-      "name": "🚀123TV | 刮削：支持，弹幕：支持，嗅探：支持，广告：菠菜",
+      "name": "🚀123TV",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/123TV.js",
       "searchable": 1,
@@ -13,7 +13,7 @@
     },
     {
       "key": "3Q影视",
-      "name": "🚀3Q影视 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀3Q影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/3Q影视.js",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
     {
       "key": "4KVM",
-      "name": "🚀4KVM | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀4KVM",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/4KVM.js",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "Auete影视",
-      "name": "🚀Auete影视 | 刮削：不支持，弹幕：不支持，嗅探：不支持，支持站内直链播放",
+      "name": "🚀Auete影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/Auete影视.js",
       "searchable": 1,
@@ -49,7 +49,7 @@
     },
     {
       "key": "FKTV",
-      "name": "🚀FKTV | 刮削：已接入，弹幕：未接入，嗅探：按官方 POST 播放接口",
+      "name": "🚀FKTV",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/FKTV.js",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Gimy剧迷",
-      "name": "🚀Gimy剧迷 | 影视站：Gimy / gimy.now / gimyai.t",
+      "name": "🚀Gimy剧迷",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/Gimy剧迷.js",
       "searchable": 1,
@@ -76,7 +76,7 @@
     },
     {
       "key": "iKanBot",
-      "name": "🚀iKanBot | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀iKanBot",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/iKanBot.js",
       "searchable": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "LIBVIO",
-      "name": "🚀LIBVIO | 刮削：已接入，弹幕：已接入，播放记录：已接入，嗅探：不需要（",
+      "name": "🚀LIBVIO",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/LIBVIO.js",
       "searchable": 1,
@@ -94,7 +94,7 @@
     },
     {
       "key": "NO视频",
-      "name": "🚀NO视频 | NO视频 - https://www.novipnoad.n",
+      "name": "🚀NO视频",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/NO视频.js",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "PPnix",
-      "name": "🚀PPnix | 刮削：暂不支持，弹幕：暂不支持，分类筛选：支持，播放链：兼容",
+      "name": "🚀PPnix",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/PPnix.js",
       "searchable": 1,
@@ -112,7 +112,7 @@
     },
     {
       "key": "RRSP",
-      "name": "🚀RRSP | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀RRSP",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/RRSP.js",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "StreamingCommunity",
-      "name": "🚀StreamingCommunity | 意大利 StreamingCommunity 站点，支持电影",
+      "name": "🚀StreamingCommunity",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/StreamingCommunity.js",
       "searchable": 1,
@@ -130,7 +130,7 @@
     },
     {
       "key": "TVB云播",
-      "name": "🚀TVB云播 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀TVB云播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/TVB云播.js",
       "searchable": 1,
@@ -139,7 +139,7 @@
     },
     {
       "key": "七味",
-      "name": "🚀七味 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀七味",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/七味.js",
       "searchable": 1,
@@ -148,7 +148,7 @@
     },
     {
       "key": "两个BT",
-      "name": "🚀两个BT | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀两个BT",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/两个BT.js",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "乌云影视",
-      "name": "🚀乌云影视 | 刮削：未接入，弹幕：站内弹幕接口，嗅探：不需要",
+      "name": "🚀乌云影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/乌云影视.js",
       "searchable": 1,
@@ -166,7 +166,7 @@
     },
     {
       "key": "乐兔",
-      "name": "🚀乐兔 | 刮削：支持，弹幕：支持，嗅探：支持，广告：有",
+      "name": "🚀乐兔",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/乐兔.js",
       "searchable": 1,
@@ -175,7 +175,7 @@
     },
     {
       "key": "人人影视PRO",
-      "name": "🚀人人影视PRO | 页面解析：首页/分类/播放页已接入；播放页直接解析 Artp",
+      "name": "🚀人人影视PRO",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/人人影视PRO.js",
       "searchable": 1,
@@ -193,7 +193,7 @@
     },
     {
       "key": "修罗影视",
-      "name": "🚀修罗影视 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀修罗影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/修罗影视.js",
       "searchable": 1,
@@ -202,7 +202,7 @@
     },
     {
       "key": "凡客TV",
-      "name": "🚀凡客TV | 刮削：已接入，弹幕：未接入，嗅探：按官方 POST 播放接口",
+      "name": "🚀凡客TV",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/凡客TV.js",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "剧圈圈",
-      "name": "🚀剧圈圈 | 影视站：支持首页、分类、详情、搜索与播放",
+      "name": "🚀剧圈圈",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/剧圈圈.js",
       "searchable": 1,
@@ -229,7 +229,7 @@
     },
     {
       "key": "卧龙",
-      "name": "🚀卧龙 | // @version 1.0.0",
+      "name": "🚀卧龙",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/卧龙.js",
       "searchable": 1,
@@ -238,7 +238,7 @@
     },
     {
       "key": "哇哇影视",
-      "name": "🚀哇哇影视 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀哇哇影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/哇哇影视.js",
       "searchable": 1,
@@ -247,7 +247,7 @@
     },
     {
       "key": "唐人街影院",
-      "name": "🚀唐人街影院 | 刮削：支持，弹幕：暂不支持，嗅探：支持，CF：支持 Flar",
+      "name": "🚀唐人街影院",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/唐人街影院.js",
       "searchable": 1,
@@ -256,7 +256,7 @@
     },
     {
       "key": "四万影视",
-      "name": "🚀四万影视 | 站点接口源：直接走 40000.me 的 /api/macc",
+      "name": "🚀四万影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/四万影视.js",
       "searchable": 1,
@@ -265,7 +265,7 @@
     },
     {
       "key": "在线之家",
-      "name": "🚀在线之家 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀在线之家",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/在线之家.js",
       "searchable": 1,
@@ -274,7 +274,7 @@
     },
     {
       "key": "如意资源",
-      "name": "🚀如意资源 | 刮削：支持，弹幕：支持，嗅探：支持，类型筛选：支持",
+      "name": "🚀如意资源",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/如意资源.js",
       "searchable": 1,
@@ -283,7 +283,7 @@
     },
     {
       "key": "威尔伯TV",
-      "name": "🚀威尔伯TV | 刮削：已接入，弹幕：未接入，嗅探：直接返回 play.mod",
+      "name": "🚀威尔伯TV",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/威尔伯TV.js",
       "searchable": 1,
@@ -292,7 +292,7 @@
     },
     {
       "key": "小黑米",
-      "name": "🚀小黑米 | 影视站：https://xiaoheimi.cc/ ，支持首",
+      "name": "🚀小黑米",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/小黑米.js",
       "searchable": 1,
@@ -301,7 +301,7 @@
     },
     {
       "key": "布布影视",
-      "name": "🚀布布影视 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀布布影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/布布影视.js",
       "searchable": 1,
@@ -310,7 +310,7 @@
     },
     {
       "key": "布布影视2",
-      "name": "🚀布布影视2 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀布布影视2",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/布布影视2.js",
       "searchable": 1,
@@ -319,7 +319,7 @@
     },
     {
       "key": "影猫仓库",
-      "name": "🚀影猫仓库 | 刮削：支持，弹幕：支持，嗅探：支持，并发：安全",
+      "name": "🚀影猫仓库",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/影猫仓库.js",
       "searchable": 1,
@@ -328,7 +328,7 @@
     },
     {
       "key": "影视大全",
-      "name": "🚀影视大全 | 影视站：https://www.iysdq.tv ，支持首页",
+      "name": "🚀影视大全",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/影视大全.js",
       "searchable": 1,
@@ -337,7 +337,7 @@
     },
     {
       "key": "新韩剧网",
-      "name": "🚀新韩剧网 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀新韩剧网",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/新韩剧网.js",
       "searchable": 1,
@@ -346,7 +346,7 @@
     },
     {
       "key": "星辰影院",
-      "name": "🚀星辰影院 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀星辰影院",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/星辰影院.js",
       "searchable": 1,
@@ -364,7 +364,7 @@
     },
     {
       "key": "枫叶",
-      "name": "🚀枫叶 | 影视站：支持首页、分类、详情、搜索与播放，补齐刮削、弹幕与播",
+      "name": "🚀枫叶",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/枫叶.js",
       "searchable": 1,
@@ -382,7 +382,7 @@
     },
     {
       "key": "毒舌03",
-      "name": "🚀毒舌03 | 影视站：https://www.dushe03.com/ ，",
+      "name": "🚀毒舌03",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/毒舌03.js",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "毒舌影视",
-      "name": "🚀毒舌影视 | 影视站：https://www.xnhrsb.com/ ，支",
+      "name": "🚀毒舌影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/毒舌影视.js",
       "searchable": 1,
@@ -400,7 +400,7 @@
     },
     {
       "key": "永乐视频",
-      "name": "🚀永乐视频 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀永乐视频",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/永乐视频.js",
       "searchable": 1,
@@ -409,7 +409,7 @@
     },
     {
       "key": "泰剧网",
-      "name": "🚀泰剧网 | 页面解析：分类/详情/播放已接入；播放页直接解析 playU",
+      "name": "🚀泰剧网",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/泰剧网.js",
       "searchable": 1,
@@ -418,7 +418,7 @@
     },
     {
       "key": "热播",
-      "name": "🚀热播 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀热播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/热播.js",
       "searchable": 1,
@@ -427,7 +427,7 @@
     },
     {
       "key": "爱奇艺资源站MacCMSAPI增强版",
-      "name": "🚀爱奇艺资源站(MacCMS API)-增强版 | 刮削：支持，弹幕：支持，嗅探：支持，观看记录：支持，广告：菠",
+      "name": "🚀爱奇艺资源站",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/爱奇艺资源站.js",
       "searchable": 1,
@@ -436,7 +436,7 @@
     },
     {
       "key": "片库",
-      "name": "🚀片库 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀片库",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/片库.js",
       "searchable": 1,
@@ -445,7 +445,7 @@
     },
     {
       "key": "独播库",
-      "name": "🚀独播库 | // @dependencies: axios",
+      "name": "🚀独播库",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/独播库.js",
       "searchable": 1,
@@ -454,7 +454,7 @@
     },
     {
       "key": "瓜子APP",
-      "name": "🚀瓜子APP | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀瓜子APP",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/瓜子.js",
       "searchable": 1,
@@ -463,7 +463,7 @@
     },
     {
       "key": "电影人生",
-      "name": "🚀电影人生 | 页面解析：已接入；播放优先直解析，失败后 SDK 嗅探，再失",
+      "name": "🚀电影人生",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/电影人生.js",
       "searchable": 1,
@@ -472,7 +472,7 @@
     },
     {
       "key": "电影天堂",
-      "name": "🚀电影天堂 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀电影天堂",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/电影天堂.js",
       "searchable": 1,
@@ -481,7 +481,7 @@
     },
     {
       "key": "耐视点播",
-      "name": "🚀耐视点播 | 页面解析：https://nsvod.me，支持首页、分类、",
+      "name": "🚀耐视点播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/耐视点播.js",
       "searchable": 1,
@@ -490,7 +490,7 @@
     },
     {
       "key": "茶杯狐",
-      "name": "🚀茶杯狐 | 影视站：支持首页、分类、详情、刮削、弹幕、播放记录与播放；搜",
+      "name": "🚀茶杯狐",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/茶杯狐.js",
       "searchable": 1,
@@ -499,7 +499,7 @@
     },
     {
       "key": "荐片APP",
-      "name": "🚀荐片APP | 刮削：支持，弹幕：支持，播放记录：支持，嗅探：支持",
+      "name": "🚀荐片APP",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/荐片.js",
       "searchable": 1,
@@ -508,7 +508,7 @@
     },
     {
       "key": "蛋蛋鱼",
-      "name": "🚀蛋蛋鱼 | 页面解析：首页/分类/详情已接入；搜索直接走 ymck 聚合",
+      "name": "🚀蛋蛋鱼",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/蛋蛋鱼.js",
       "searchable": 1,
@@ -517,7 +517,7 @@
     },
     {
       "key": "袋鼠影视",
-      "name": "🚀袋鼠影视 | 影视站：https://daishuys.com ，支持首页",
+      "name": "🚀袋鼠影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/袋鼠影视.js",
       "searchable": 1,
@@ -526,7 +526,7 @@
     },
     {
       "key": "这片海",
-      "name": "🚀这片海 | 影视站：https://www.zhepianhai.com",
+      "name": "🚀这片海",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/这片海.js",
       "searchable": 1,
@@ -535,7 +535,7 @@
     },
     {
       "key": "金牌",
-      "name": "🚀金牌 | API 站：https://m.jiabaide.cn，支持",
+      "name": "🚀金牌",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/金牌.js",
       "searchable": 1,
@@ -544,7 +544,7 @@
     },
     {
       "key": "韩小圈",
-      "name": "🚀韩小圈 | 影视站：支持首页、分类、详情、搜索与播放",
+      "name": "🚀韩小圈",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/采集/韩小圈.js",
       "searchable": 1,
@@ -553,7 +553,7 @@
     },
     {
       "key": "4K指南",
-      "name": "🚀4K指南 | 网盘资源站：https://4kzn.com ，支持首页、分",
+      "name": "🚀4K指南",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/4K指南.js",
       "searchable": 1,
@@ -562,7 +562,7 @@
     },
     {
       "key": "AListTvbox",
-      "name": "🚀AListTvbox | 必填参数：BASE_URL，XIAOYA_TOKEN。刮削：",
+      "name": "🚀AListTvbox",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/AListTvbox.js",
       "searchable": 1,
@@ -571,7 +571,7 @@
     },
     {
       "key": "七味分组",
-      "name": "🚀七味分组 | 刮削：支持，弹幕：支持，嗅探：支持，仅保留七味网盘线路的分组",
+      "name": "🚀七味分组",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/七味分组.js",
       "searchable": 1,
@@ -580,7 +580,7 @@
     },
     {
       "key": "二小",
-      "name": "🚀二小 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀二小",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/二小.js",
       "searchable": 1,
@@ -598,7 +598,7 @@
     },
     {
       "key": "光鸭臻影社",
-      "name": "🚀光鸭·臻影社 | 网盘资源站：https://guangya.qsxy.top",
+      "name": "🚀光鸭·臻影社",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/光鸭·臻影社.js",
       "searchable": 1,
@@ -607,7 +607,7 @@
     },
     {
       "key": "剧迷115",
-      "name": "🚀剧迷115 | 影视站：gimy115.top，支持首页、分类、搜索、详情与",
+      "name": "🚀剧迷115",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/剧迷115.js",
       "searchable": 1,
@@ -616,7 +616,7 @@
     },
     {
       "key": "多多",
-      "name": "🚀多多 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀多多",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/多多.js",
       "searchable": 1,
@@ -625,7 +625,7 @@
     },
     {
       "key": "影巢",
-      "name": "🚀影巢 | // @dependencies axios",
+      "name": "🚀影巢",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/影巢.js",
       "searchable": 1,
@@ -634,7 +634,7 @@
     },
     {
       "key": "快映",
-      "name": "🚀快映 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀快映",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/快映.js",
       "searchable": 1,
@@ -643,7 +643,7 @@
     },
     {
       "key": "木偶",
-      "name": "🚀木偶 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀木偶",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/木偶.js",
       "searchable": 1,
@@ -652,7 +652,7 @@
     },
     {
       "key": "欧哥",
-      "name": "🚀欧哥 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀欧哥",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/欧哥.js",
       "searchable": 1,
@@ -661,7 +661,7 @@
     },
     {
       "key": "玩偶",
-      "name": "🚀玩偶 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀玩偶",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/玩偶.js",
       "searchable": 1,
@@ -670,7 +670,7 @@
     },
     {
       "key": "玩偶聚合",
-      "name": "🚀玩偶聚合 | 聚合玩偶、木偶、蜡笔、闪电、至臻、二小、虎斑、快映、欧哥、多",
+      "name": "🚀玩偶聚合",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/玩偶聚合.js",
       "searchable": 1,
@@ -688,7 +688,7 @@
     },
     {
       "key": "盘搜",
-      "name": "🚀盘搜 | 刮削：支持，弹幕：支持，嗅探：支持，网盘：115、夸克、UC",
+      "name": "🚀盘搜",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/盘搜.js",
       "searchable": 1,
@@ -697,7 +697,7 @@
     },
     {
       "key": "盘搜分组",
-      "name": "🚀盘搜分组 | 刮削：支持，弹幕：支持，嗅探：支持，只支持tvbox接口",
+      "name": "🚀盘搜分组",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/盘搜分组.js",
       "searchable": 1,
@@ -706,7 +706,7 @@
     },
     {
       "key": "聚盘搜索pandyuzicom",
-      "name": "🚀聚盘搜索 (pan.dyuzi.com) | 站点搜索 + 网盘资源解析（夸克/百度/迅雷等），支持网盘目",
+      "name": "🚀聚盘搜索",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/聚盘搜索.js",
       "searchable": 1,
@@ -715,7 +715,7 @@
     },
     {
       "key": "聚盘搜索分组pandyuzicom",
-      "name": "🚀聚盘搜索分组 (pan.dyuzi.com) | 聚盘搜索分组版：搜索先按网盘分组，再进入二级结果；详情与播放",
+      "name": "🚀聚盘搜索分组",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/聚盘搜索分组.js",
       "searchable": 1,
@@ -724,7 +724,7 @@
     },
     {
       "key": "至臻",
-      "name": "🚀至臻 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀至臻",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/至臻.js",
       "searchable": 1,
@@ -733,7 +733,7 @@
     },
     {
       "key": "虎斑",
-      "name": "🚀虎斑 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀虎斑",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/虎斑.js",
       "searchable": 1,
@@ -742,7 +742,7 @@
     },
     {
       "key": "蜡笔",
-      "name": "🚀蜡笔 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀蜡笔",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/蜡笔.js",
       "searchable": 1,
@@ -751,7 +751,7 @@
     },
     {
       "key": "闪电",
-      "name": "🚀闪电 | 刮削：支持，弹幕：支持，播放记录：支持",
+      "name": "🚀闪电",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/网盘/闪电.js",
       "searchable": 1,
@@ -760,7 +760,7 @@
     },
     {
       "key": "不太灵",
-      "name": "🚀不太灵 | 资源网：详情与资源列表已接入；支持磁力/网盘资源展示",
+      "name": "🚀不太灵",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/磁力/不太灵.js",
       "searchable": 1,
@@ -769,7 +769,7 @@
     },
     {
       "key": "磁力熊",
-      "name": "🚀磁力熊 | 磁力资源站：支持首页、分类、详情、搜索与磁力/电驴/种子线路",
+      "name": "🚀磁力熊",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/磁力/磁力熊.js",
       "searchable": 1,
@@ -778,7 +778,7 @@
     },
     {
       "key": "360影视",
-      "name": "🚀360影视 | 360影视 OmniBox 源；解析接口通过全局环境变量 P",
+      "name": "🚀360影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/影视/解析/movie360.js",
       "searchable": 1,
@@ -787,7 +787,7 @@
     },
     {
       "key": "girigiri爱动漫",
-      "name": "🚀girigiri爱动漫 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀girigiri爱动漫",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/动漫/girigiri爱动漫.js",
       "searchable": 1,
@@ -796,7 +796,7 @@
     },
     {
       "key": "嗷呜动漫",
-      "name": "🚀嗷呜动漫 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀嗷呜动漫",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/动漫/嗷呜动漫.js",
       "searchable": 1,
@@ -805,7 +805,7 @@
     },
     {
       "key": "樱花动漫",
-      "name": "🚀樱花动漫 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀樱花动漫",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/动漫/樱花动漫.js",
       "searchable": 1,
@@ -814,7 +814,7 @@
     },
     {
       "key": "稀饭动漫",
-      "name": "🚀稀饭动漫 | 刮削：支持，弹幕：支持，嗅探：支持",
+      "name": "🚀稀饭动漫",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/动漫/稀饭动漫.js",
       "searchable": 1,
@@ -823,7 +823,7 @@
     },
     {
       "key": "博看听书",
-      "name": "🚀博看听书 | // @version 1.0.0",
+      "name": "🚀博看听书",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/听书/博看听书.js",
       "searchable": 1,
@@ -841,7 +841,7 @@
     },
     {
       "key": "番茄畅听",
-      "name": "🚀番茄畅听 | // @dependencies: crypto-js",
+      "name": "🚀番茄畅听",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/听书/番茄畅听.js",
       "searchable": 1,
@@ -850,7 +850,7 @@
     },
     {
       "key": "酷我听书",
-      "name": "🚀酷我听书 | // @version 1.0.0",
+      "name": "🚀酷我听书",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/听书/酷我听书.js",
       "searchable": 1,
@@ -868,7 +868,7 @@
     },
     {
       "key": "DJ音乐听OmniBox",
-      "name": "🚀DJ音乐[听] - OmniBox",
+      "name": "🚀DJ音乐[听]",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/音乐/DJ音乐.js",
       "searchable": 1,
@@ -877,7 +877,7 @@
     },
     {
       "key": "世纪音乐",
-      "name": "🚀世纪音乐 | // @dependencies: axios, cheer",
+      "name": "🚀世纪音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/音乐/世纪音乐.js",
       "searchable": 1,
@@ -886,7 +886,7 @@
     },
     {
       "key": "枫叶音乐",
-      "name": "🚀枫叶音乐 | // @dependencies: axios",
+      "name": "🚀枫叶音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/音乐/枫叶音乐.js",
       "searchable": 1,
@@ -904,7 +904,7 @@
     },
     {
       "key": "哔哩教育",
-      "name": "🚀哔哩教育 | 刮削：不支持，弹幕：支持，嗅探：不支持，登录：支持",
+      "name": "🚀哔哩教育",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/教育/哔哩教育.js",
       "searchable": 1,
@@ -913,7 +913,7 @@
     },
     {
       "key": "贝乐虎",
-      "name": "🚀贝乐虎 | 刮削：不支持，弹幕：不支持，嗅探：不支持",
+      "name": "🚀贝乐虎",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/教育/贝乐虎.js",
       "searchable": 1,
@@ -922,7 +922,7 @@
     },
     {
       "key": "YY轮播",
-      "name": "🚀YY轮播 | // @dependencies: axios",
+      "name": "🚀YY轮播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/直播/YY轮播.js",
       "searchable": 1,
@@ -931,7 +931,7 @@
     },
     {
       "key": "抖音直播",
-      "name": "🚀抖音直播 | // @dependencies: axios, crypt",
+      "name": "🚀抖音直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/直播/抖音直播.js",
       "searchable": 1,
@@ -940,7 +940,7 @@
     },
     {
       "key": "斗鱼直播",
-      "name": "🚀斗鱼直播 | // @dependencies: axios, crypt",
+      "name": "🚀斗鱼直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/直播/斗鱼直播.js",
       "searchable": 1,
@@ -949,7 +949,7 @@
     },
     {
       "key": "虎牙直播",
-      "name": "🚀虎牙直播 | // @dependencies: axios, crypt",
+      "name": "🚀虎牙直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/直播/虎牙直播.js",
       "searchable": 1,
@@ -958,7 +958,7 @@
     },
     {
       "key": "嘟嘟短剧",
-      "name": "🚀嘟嘟短剧 | API 短剧站：https://api-v2.cenguig",
+      "name": "🚀嘟嘟短剧",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/嘟嘟短剧.js",
       "searchable": 1,
@@ -967,7 +967,7 @@
     },
     {
       "key": "星星短剧短",
-      "name": "🚀星星短剧 ᵈᶻ[短]",
+      "name": "🚀星星短剧",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/星星短剧.js",
       "searchable": 1,
@@ -976,7 +976,7 @@
     },
     {
       "key": "河马短剧",
-      "name": "🚀河马短剧 | // @dependencies: axios",
+      "name": "🚀河马短剧",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/河马短剧.js",
       "searchable": 1,
@@ -985,7 +985,7 @@
     },
     {
       "key": "短剧粉",
-      "name": "🚀短剧粉 | 页面解析：分类/详情/播放已接入；播放页直接解析 playe",
+      "name": "🚀短剧粉",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/短剧粉.js",
       "searchable": 1,
@@ -994,7 +994,7 @@
     },
     {
       "key": "短剧网",
-      "name": "🚀短剧网 | 刮削：不支持，弹幕：不支持，嗅探：不支持（网盘直连）",
+      "name": "🚀短剧网",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/短剧网.js",
       "searchable": 1,
@@ -1003,7 +1003,7 @@
     },
     {
       "key": "短剧聚合",
-      "name": "🚀短剧聚合 | // @dependencies: axios, crypt",
+      "name": "🚀短剧聚合",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/短剧/短剧聚合.js",
       "searchable": 1,
@@ -1012,7 +1012,7 @@
     },
     {
       "key": "哔哩大全",
-      "name": "🚀哔哩大全 | 弹幕：支持",
+      "name": "🚀哔哩大全",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/综合/哔哩大全.js",
       "searchable": 1,
@@ -1021,7 +1021,7 @@
     },
     {
       "key": "MakkaPakka聚合导航",
-      "name": "🚀MakkaPakka聚合导航 | 基于 AstrBot Widget 通用桥接的 OmniBo",
+      "name": "🚀MakkaPakka聚合导航",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/导航/MakkaPakka聚合导航.js",
       "searchable": 1,
@@ -1030,7 +1030,7 @@
     },
     {
       "key": "豆瓣推荐",
-      "name": "🚀豆瓣推荐 | 豆瓣推荐爬虫脚本",
+      "name": "🚀豆瓣推荐",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/导航/豆瓣推荐.js",
       "searchable": 1,
@@ -1039,7 +1039,7 @@
     },
     {
       "key": "Jellyfin",
-      "name": "🚀Jellyfin | 直连 Jellyfin 接口（兼容 Emby API），填好",
+      "name": "🚀Jellyfin",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/流媒体/Jellyfin.js",
       "searchable": 1,
@@ -1048,7 +1048,7 @@
     },
     {
       "key": "Plex",
-      "name": "🚀Plex | 直连 Plex 接口，填好服务器地址和 Token 即可使用",
+      "name": "🚀Plex",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/流媒体/Plex.js",
       "searchable": 1,
@@ -1057,7 +1057,7 @@
     },
     {
       "key": "飞牛",
-      "name": "🚀飞牛 | 飞牛私有媒体库源，支持多站点、媒体库分类、目录展开、电影/剧",
+      "name": "🚀飞牛",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/流媒体/飞牛.js",
       "searchable": 1,
@@ -1066,7 +1066,7 @@
     },
     {
       "key": "Emby模板一",
-      "name": "🚀Emby-模板一 | 直连 Emby 接口，TVBox T4 结构输出（刮削：不支",
+      "name": "🚀Emby-模板一 ",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/Emby/模板一.js",
       "searchable": 1,
@@ -1075,7 +1075,7 @@
     },
     {
       "key": "Emby模板二",
-      "name": "🚀Emby-模板二 | 直连 Emby 接口，TVBox T4 结构输出（刮削：不支",
+      "name": "🚀Emby-模板二 ",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/Silent1566/OmniBox-Spider/raw/main/Emby/模板二.js",
       "searchable": 1,
