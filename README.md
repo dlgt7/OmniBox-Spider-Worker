@@ -18,9 +18,9 @@
 
 ## 一键部署
 
-### 🚀 智能部署脚本（推荐）
+### 🚀 方式一：智能部署脚本（Windows 推荐）
 
-**Windows 用户：**
+**使用方法：**
 ```bash
 双击运行 deploy-smart.bat
 ```
@@ -37,7 +37,52 @@
 2. 双击 `deploy-smart.bat`
 3. 等待部署完成
 
-**详细方案：** 查看 [DEPLOY_OPTIONS.md](DEPLOY_OPTIONS.md) 了解更多部署方式。
+---
+
+### 🚀 方式二：Cloudflare Pages 部署（推荐）
+
+**适合：** 不想配置本地环境的用户
+
+**步骤：**
+
+1. **Fork 项目到 GitHub**
+2. **创建 KV 命名空间**
+   ```bash
+   wrangler login
+   wrangler kv:namespace create CACHE
+   ```
+3. **更新 wrangler.toml**
+   - 将 `your-kv-namespace-id` 替换为真实的 KV ID
+4. **连接 Cloudflare Pages**
+   - Dashboard → Workers & Pages → Create application → Pages
+   - 连接你的 GitHub 仓库
+5. **配置构建设置**
+   ```
+   Build command: npm run build-config
+   Build output directory: public
+   ```
+6. **部署**
+
+**详细步骤：** 查看 [CLOUDFLARE_PAGES_DEPLOY.md](CLOUDFLARE_PAGES_DEPLOY.md)
+
+**优点：**
+- ✅ 完全自动化
+- ✅ 无需本地环境
+- ✅ 每次推送自动部署
+- ✅ 从 GitHub API 在线获取爬虫列表
+
+---
+
+### 📝 重要说明
+
+**构建脚本已更新：**
+- ✅ 从 GitHub API 在线获取爬虫脚本列表
+- ✅ 不再依赖本地路径 `C:\Users\Administrator\Desktop\OmniBox-Spider-main`
+- ✅ 支持在 Cloudflare Pages 环境中运行
+
+**KV 命名空间配置：**
+- ⚠️ 必须先创建 KV 命名空间才能部署
+- ⚠️ 需要将真实的 KV ID 填入 `wrangler.toml`
 
 ---
 
