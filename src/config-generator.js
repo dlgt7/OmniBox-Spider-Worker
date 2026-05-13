@@ -7,18 +7,39 @@ import { scanSpiders } from './spider-scanner.js';
 async function getOriginalSpider() {
   try {
     const response = await fetch(
+      'http://www.饭太硬.com/tv',
+      { cache: 'no-store' }
+    );
+    
+    if (response.ok) {
+      const data = await response.json();
+      if (data.spider) {
+        console.log('✅ 从饭太硬获取 spider:', data.spider);
+        return data.spider;
+      }
+    }
+  } catch (e) {
+    console.error('从饭太硬获取 spider 失败:', e.message);
+  }
+
+  try {
+    const response = await fetch(
       'https://raw.githubusercontent.com/dlgt7/omnibox-spider-worker/main/public/config.json',
       { cache: 'no-store' }
     );
     
     if (response.ok) {
       const data = await response.json();
-      return data.spider || "https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg;md5;448a9f26f33109f6aa148971c3adab46";
+      if (data.spider) {
+        console.log('✅ 从 GitHub 备用源获取 spider:', data.spider);
+        return data.spider;
+      }
     }
   } catch (e) {
-    console.error('获取原始 spider 失败:', e.message);
+    console.error('从 GitHub 获取 spider 失败:', e.message);
   }
 
+  console.log('⚠️ 使用默认 spider');
   return "https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg;md5;448a9f26f33109f6aa148971c3adab46";
 }
 
